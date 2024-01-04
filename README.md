@@ -1,4 +1,4 @@
-# Visualisez_des_données_avec_Excel
+# Visualize_data_with_Excel
 
 - Formaliser les résultats d’une analyse statistique en utilisant des outils de visualisation
 - Analyser un besoin client pour formuler des questions analytiques et définir des indicateurs de suivi
