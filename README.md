@@ -14,7 +14,7 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
 <ul>
   <li>Vizualisation and cleaning of Primero Bank database</li>
-  <li>Data analysis and use of pivot tables to identify customers types who leave the bank</li>
+  <li>Data analysis and use many skills like statistics functions,filters, aggregation and pivot tables to identify customers types who leave the bank</li>
   <li>Creation of graphics based on pivot tables results so that to have more visual communication near our clients</li>
   <li>Selection of the most relevant and impactful results to communicate</li>
   <li>Presentation of the results through a report and some visualizations</li>
