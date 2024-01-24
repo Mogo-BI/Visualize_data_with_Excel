@@ -1,6 +1,6 @@
 # Visualize_data_with_Excel
 
-<h1>Context</h1>
+<h1>I. Context</h1>
 
 Following many departures, 'Primero Bank' company mandated us to carry out a data processing of her commercial management software.
 
@@ -10,7 +10,7 @@ It also had to allow to identify the proportion of customers who could leave the
 
 Thereby, they could put in place an action plan in order to avoid a new wave of departures.
 
-<h1>Methodology</h1>
+<h1>II. Methodology</h1>
   <h2>1. Define goals of communication</h2>
     <li>Bank's objectives by requesting our expertise</li>
     <li>Their communication's targets</li>
