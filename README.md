@@ -2,7 +2,7 @@
 
 <h1>I. Context</h1>
 
-Following many departures, 'Primero Bank' company mandated us to carry out a data processing of her commercial management software.
+Following many departures, **Primero Bank** company mandated us to carry out a data processing of her commercial management software.
 
 That data analysis had to allow to identify the common characteristics to customers who have left their establishment.
 
