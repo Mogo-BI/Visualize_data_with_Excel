@@ -35,7 +35,9 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
    <h2>1. Technologies</h2>
 
-   <h2>2. Skills</h2>
+   <h2>2. Assessed skills</h2>
+     <li>Analyze user data by selecting a suitable methodology</li>
+     <li>Present data to users by using data visualization techniques</li>
 
 <h1>IV. References</h1>
 
