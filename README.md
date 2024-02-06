@@ -41,7 +41,7 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
   <h2>1. Data</h2>
 
-    
+    <href>https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations</href>
 
   <h2>2. Office automation</h2>
     - [Openclassrooms : Maitrisez les fondamentaux d'Excel](https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel)
