@@ -43,9 +43,8 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
     - [Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
 
   <h2>2. Office automation</h2>
+    - [Openclassrooms : Maitrisez les fondamentaux d'Excel](https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel)
     - [Openclassrooms : Perfectionnez vous sur Excel](https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel)
-    - [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
-    - [Openclassrooms : TP : Pratiquez l'analyse de la variance sur le jeu de données du blé](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754157-tp-pratiquez-lanalyse-de-la-variance-sur-le-jeu-de-donnees-du-ble)
-    - [Youtube : l'ANOVA en 3 minutes ;-)](https://www.youtube.com/watch?v=lITNHx2z5FE&t=8s)
-    - [Comparaison de plusieurs moyennes : ANOVA](https://www.youtube.com/watch?v=r4SaFaA0uxk)
-    - [Github : Test d'indépendance 🎲 avec Python](https://asardell.github.io/statistique-python/)
+
+  <h2>3. Softskills</h2>
+    - [Openclassrooms : Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations)
