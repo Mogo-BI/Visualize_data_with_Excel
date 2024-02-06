@@ -43,7 +43,6 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
     <a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees"> title ="Openclassrooms : Développez votre culture des données" </a>
     
-    - [Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
 
   <h2>2. Office automation</h2>
     - [Openclassrooms : Maitrisez les fondamentaux d'Excel](https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel)
