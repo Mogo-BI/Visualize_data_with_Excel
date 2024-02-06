@@ -40,13 +40,12 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-
-    <href>https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations</href>
+    <li><a href="https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees">Openclassrooms : Développez votre culture des données</a></li>
 
   <h2>2. Office automation</h2>
-    - [Openclassrooms : Maitrisez les fondamentaux d'Excel](https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel)
-    - [Openclassrooms : Perfectionnez vous sur Excel](https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel)
-
+    <li><a href="https://openclassrooms.com/fr/courses/7168336-maitrisez-les-fondamentaux-dexcel">Openclassrooms : Maitrîsez les fondamentaux d'Excel</a></li>
+    <li><a href="https://openclassrooms.com/fr/courses/7139456-perfectionnez-vous-sur-excel">Openclassrooms : Perfectionnez vous sur Excel</a></li>
+ 
   <h2>3. Softskills</h2>
-    - [Openclassrooms : Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations)
+    <li><a href="https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations">Openclassrooms : Améliorez l'impact de vos présentations</a></li>
     
