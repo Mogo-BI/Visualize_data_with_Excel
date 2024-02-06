@@ -34,6 +34,8 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 <h1>III. Technologies & skills</h1>
 
    <h2>1. Technologies</h2>
+     <li>Microsoft Excel</li>
+     <li>Microsoft Powerpoint</li>
 
    <h2>2. Assessed skills</h2>
      <li>Analyze user data by selecting a suitable methodology</li>
