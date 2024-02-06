@@ -40,6 +40,7 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
+  - [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
     - [Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
 
   <h2>2. Office automation</h2>
