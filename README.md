@@ -1,4 +1,4 @@
-# Visualize_data_with_Excel
+# Visualize data with Excel
 
 <h1>I. Context</h1>
 
