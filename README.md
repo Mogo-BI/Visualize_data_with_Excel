@@ -38,3 +38,11 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
    <h2>2. Skills</h2>
 
 <h1>IV. References</h1>
+
+  - [Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
+- [Openclassrooms : Analysez une variable quantitative et une qualitative par ANOVA](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4774896-analysez-une-variable-quantitative-et-une-qualitative-par-anova)
+- [Openclassrooms : Réalisez une analyse de la variance](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754155-realisez-une-analyse-de-la-variance)
+- [Openclassrooms : TP : Pratiquez l'analyse de la variance sur le jeu de données du blé](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754157-tp-pratiquez-lanalyse-de-la-variance-sur-le-jeu-de-donnees-du-ble)
+- [Youtube : l'ANOVA en 3 minutes ;-)](https://www.youtube.com/watch?v=lITNHx2z5FE&t=8s)
+- [Comparaison de plusieurs moyennes : ANOVA](https://www.youtube.com/watch?v=r4SaFaA0uxk)
+- [Github : Test d'indépendance 🎲 avec Python](https://asardell.github.io/statistique-python/)
