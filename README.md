@@ -40,7 +40,8 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 <h1>IV. References</h1>
 
   <h2>1. Data</h2>
-  - [Openclassrooms : Appréhendez le fonctionnement de l'analyse de la variance (ANOVA)](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes/5754154-apprehendez-le-fonctionnement-de-lanalyse-de-la-variance-anova)
+
+    <a href="[URL](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)">Openclassrooms : Développez votre culture des données</a>
     - [Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
 
   <h2>2. Office automation</h2>
@@ -49,3 +50,4 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
   <h2>3. Softskills</h2>
     - [Openclassrooms : Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations)
+    
