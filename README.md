@@ -41,7 +41,7 @@ Thereby, they could put in place an action plan in order to avoid a new wave of 
 
   <h2>1. Data</h2>
 
-    <href=https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees> title ="Openclassrooms : Développez votre culture des données" </href>
+    <href https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees  </href>
     
 
   <h2>2. Office automation</h2>
